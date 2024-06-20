@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siya-Moghe
 - 👀 I’m interested in Mathematics and Computing
-- 🌱 I’m currently persuing my undergradutate degree
+- 🌱 I’m currently persuing my undergraduate degree
 - 💞️ I’m looking to collaborate on artificial intelligence and machine learning
 
 <!---
