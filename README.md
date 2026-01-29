@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @Siya-Moghe
-- 👀 I’m interested in Mathematics and Computing
-- 🌱 I’m currently persuing my undergraduate degree
-- 💞️ I’m looking to collaborate on artificial intelligence and machine learning
+## Hey, I’m Siya 
 
-<!---
-Siya-Moghe/Siya-Moghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Undergrad into **math, computing, and systems**.  
+Exploring distributed systems, databases, and AI/ML on real-world data.  
+Always curious, always tinkering, always trying to make sense of complex systems.  
+
+### What I’m Up To
+- Playing with distributed systems and database designs  
+- Turning messy data into insights with AI/ML  
+- Experimenting with tools and prototypes that solve practical problems
+- Sneaking in puzzles whenever I can 
+
+### Connect
+GitHub: [@Siya-Moghe](https://github.com/Siya-Moghe)  
+LinkedIn: [Siya Moghe](www.linkedin.com/in/siya-moghe-7bb8a02a1)  
