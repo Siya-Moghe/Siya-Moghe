@@ -11,4 +11,5 @@ Always curious, always tinkering, always trying to make sense of complex systems
 - Sneaking in puzzles whenever I can 
 
 ### Connect
-LinkedIn: [Siya Moghe](www.linkedin.com/in/siya-moghe-7bb8a02a1)  
+LinkedIn: <a href="https://linkedin.com/in/siya-moghe-7bb8a02a1">Siya Moghe</a>
+
